@@ -1,0 +1,24 @@
+{
+  "name": "@property/help-me-nodejs",
+  "version": "1.0.0",
+  "description": "Let's hack GitHub ;)",
+  "main": "help-me.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codetapio/help-me-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "github",
+    "hack"
+  ],
+  "author": "Marian Zburlea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codetapio/help-me-nodejs/issues"
+  },
+  "homepage": "https://github.com/codetapio/help-me-nodejs#readme"
+}
